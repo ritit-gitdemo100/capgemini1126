@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Specific files
+notes.txt
+data.json
